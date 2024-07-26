@@ -1,0 +1,5 @@
+in\ashokit\config\SwaggerConfig.class
+in\ashokit\Application.class
+in\ashokit\request\Passenger.class
+in\ashokit\response\Ticket.class
+in\ashokit\rest\ErailRestController.class
