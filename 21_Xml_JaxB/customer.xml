@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer>
+	<email>john@gmail.com</email>
+	<id>101</id>
+	<name>John</name>
+	<phno>64131313</phno>
+</customer>
