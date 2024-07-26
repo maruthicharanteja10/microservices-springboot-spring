@@ -22,4 +22,7 @@ public class SwaggerConfig {
 				   .paths(PathSelectors.any())
 				   .build();
 	}
+//	Swagger DOC URL : http://localhost:8080/v2/api-docs
+//	Swagger UI URL : http://localhost:8080/swagger-ui.html
+
 }
