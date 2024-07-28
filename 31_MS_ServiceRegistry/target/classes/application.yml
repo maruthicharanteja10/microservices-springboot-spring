@@ -1,0 +1,8 @@
+
+server:
+  port: 8761
+    
+ #it is used to remove self registry
+eureka:
+    client:
+        register-with-eureka: false
