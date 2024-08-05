@@ -22,10 +22,7 @@ Spring Boot is an extension of the Spring framework that simplifies the developm
 
 ## Microservices Architecture
 Microservices architecture structures an application as a collection of small, autonomous services modeled around a business domain. Each service can be developed, deployed, and scaled independently.
-
-
-![image](https://github.com/user-attachments/assets/56e9d784-04a6-48d6-a2d4-c755da9168a3)
-
+![image](https://github.com/user-attachments/assets/8f1cdec7-6d16-4df4-b054-23cc08d14841)
 
 
 ### Key Concepts
