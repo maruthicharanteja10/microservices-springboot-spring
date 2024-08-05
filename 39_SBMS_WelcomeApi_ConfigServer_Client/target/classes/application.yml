@@ -1,0 +1,16 @@
+
+server:
+  port: 9091
+spring:
+ 
+  config:
+   import: optional:configserver:http://localhost:8080
+  
+  cloud:
+   import-check.enabled: false
+
+  application:
+   name: welcome   
+ 
+
+ 

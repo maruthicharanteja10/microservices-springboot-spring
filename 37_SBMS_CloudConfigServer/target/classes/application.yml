@@ -1,0 +1,14 @@
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/maruthicharanteja10/configuration_properties 
+          clone-on-start: true          
+
+        bootstrap: true
+   
+ 
+    
+
